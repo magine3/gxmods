@@ -1,0 +1,13 @@
+ "manifestVersion": 1,
+  "name": "Sakuya Theme - SWR",
+  "author": "Magine",
+  "version": "1.0.0",
+  "description": "Mod de Sakuya Izayoi con música de Scarlet Weather Rhapsody",
+  "music": { SWR Sakuya's Theme_ Flowering Night
+    "enabled": true,
+    "src": "assets/swr_sakuya_theme.ogg",
+    "loop": true,
+    "volume": 0.8
+  },
+  "background": {
+    "image": "assets/sakuya_wallpaper.jpg"
